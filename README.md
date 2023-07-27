@@ -1,6 +1,9 @@
 # namer_app
 
-A new Flutter project.
+How to run:
+
+- select Device from bottom left
+- Run and debug at top left corner
 
 ## Getting Started
 
